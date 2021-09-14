@@ -1,0 +1,40 @@
+Create a class named Fraction
+    The class will have both a header (Fraction.h) and source file (Fraction.cpp)
+    Include int members for numerator and denominator
+    Include a default constructor and 2 overloaded constructors
+        1 overloaded constructor will take a numerator and denominator
+        1 overloaded constructor will take a numerator
+    Include accessors (getNumerator, getDenominator) and mutators (setNumerator, setDenominator) for the member variables
+    Create a function named simplify
+        This function will reduce fractions to their simplest form after any mathematical operators or mutators are called
+    Create overloaded operators for the following:
+        Mathematical
+            + (addition)
+            - (subtraction)
+            * (multiplication)
+            / (division)
+        Relational
+            < (less than) - 
+            > (greater than)
+            ==(equal) - fractions stored have equal value
+        Stream
+            <<(insertion)
+                Display numerator<space>/<space>denominator
+            >>(extraction)
+                Prompt the user for a numerator and a denominator
+                Store the values in the object
+    All operators except the stream operators will have a single Fraction parameter
+    The mathematical operators will return fraction objects
+Create a driver program that uses the fraction class
+    Create two fraction objects
+    Use the stream extraction operator to modify one of the objects
+        Make sure that both objects represent different fractions
+    Use the stream insertion operator to display the results of each overloaded mathematical and relational operator
+        addition
+        subtraction
+        multiplication
+        division
+        less than
+        greater than
+        equals
+    All of your functions will be tested using unit tests and the grade will be based on the proper output from those unit tests.
