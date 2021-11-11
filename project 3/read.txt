@@ -1,0 +1,7 @@
+Centipede, 5550000, DKV, 50, $12.50
+Mousetrap, 895230, WJS, 12, $3.00
+Defender, 750245000, LEH, 100, $25.00
+Cento, 52556, DOV, 50, $12.50
+Mouso, 830, WSS, 12, $3.00
+Defendo, 750245, LOH, 100, $25.00
+Apple, 10, APL, 200

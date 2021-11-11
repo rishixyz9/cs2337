@@ -1,0 +1,6 @@
+1 "Tempest" 4230500 VFD 300 $75.00
+3 "Frogger" 2 ABC
+4 Defender
+5 asc
+2 Tempest
+2 Centipede
