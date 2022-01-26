@@ -1,0 +1,12 @@
+Arvala-Bogano Castilon,5 Bracca,5
+Atollon Cantonica,5 Batuu,5
+Bespin Bogano,5 Concord_Dawn,5
+Bogano Bespin,5 Christophsis,5
+Batuu Behpour,5 Atollon,5
+Bracca Behpour,5 Arvala-Bogano,5
+Cantonica Atollon,5 Christophsis,5
+Behpour Bracca,5 Batuu,5
+Castilon Arvala-Bogano,5 Chandrila,5
+Chandrila Concord_Dawn,5 Castilon,5
+Christophsis Bogano,5 Cantonica,5
+Concord_Dawn Bespin,5 Chandrila,5

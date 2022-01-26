@@ -1,0 +1,6 @@
+Bracca Mimban,6 Wobani,20 Takodana,3 Endor,20 Pasaana,6
+Endor Takodana,5 Mimban,15 Wobani,10 Bracca,20 Pasaana,2
+Takodana Pasaana,3 Mimban,3 Endor,5 Wobani,3 Bracca,3
+Pasaana Endor,2 Bracca,6 Takodana,3 Mimban,5 Wobani,4
+Mimban Bracca,6 Pasaana,5 Wobani,10 Endor,15 Takodana,3
+Wobani Pasaana,4 Endor,10 Takodana,3 Mimban,10 Bracca,20

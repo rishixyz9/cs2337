@@ -1,0 +1,7 @@
+Kijimi Kuat,5 Malachor,4
+Kuat Lah'mu,3
+Lah'mu Kijimi,2
+Maridun Kijimi,6
+Lira_San Lah'mu,1 Lira_San,0 Lothal,2
+Lothal Lira_San,10 Maridun,3
+Malachor Maridun,2 Lothal,1

@@ -1,0 +1,10 @@
+Dandoran Dathomir,1 Er´kit,5 Exegol,7
+Dathomir Dandoran,1 Eriadu,5 Florrum,8 Endor,3
+Devaron Eriadu,4 Exegol,5 Florrum,7
+Eadu Eriadu,3 Endor,1
+Endor Eadu,1 Felucia,4
+Er´kit Endor,1 Felucia,3 Dandoran,5
+Eriadu Eadu,3 Felucia,2
+Exegol Dandoran,7 Florrum,2 Devaron,5
+Felucia Eriadu,2
+Florrum Devaron,7 Florrum,0 Exegol,2 Dathomir,8

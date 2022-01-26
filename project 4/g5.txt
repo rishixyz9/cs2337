@@ -1,0 +1,40 @@
+Zeffo Utapau,1 Yavin,2 Subterrel,3
+Utapau Zeffo,1 Mimban,2 Lothal,4 Kashyyyk,6
+Yavin Zeffo,2 Geonosis,3 Felucia,6 Eriadu,9
+Subterrel Zeffo,4 Coruscant,4 Cantonica,8 Ando,12
+Mimban Utapau,2 Dathomir,5 Ryloth,10 Vandor-1,15
+Lothal Utapau,4 Scarif,6 Ruusan,12 Malachor,18
+Kashyyyk Utapau,6 Abafar,7 Kamino,14 Corellia,21
+Geonosis Yavin,3 Akiva,8 Ahch-To,16 Naboo,24
+Felucia Yavin,6 Rodia,9 Lah'mu,18 Jedha,27
+Eriadu Yavin,9 Dantooine,10 Crait,20 Iridonia,30
+Coruscant Subterrel,4 Exegol,11 Hoth,22 Toydaria,33
+Cantonica Subterrel,8 Zygerria,12 Takodana,24 Moraband,36
+Ando Subterrel,12 Ilum,13 Christophsis,26 Dagobah,39
+Dathomir Mimban,5
+Ryloth Mimban,10
+Vandor-1 Mimban,15
+Scarif Lothal,6
+Ruusan Lothal,12
+Malachor Lothal,18
+Abafar Kashyyyk,7
+Kamino Kashyyyk,14
+Corellia Kashyyyk,21
+Akiva Geonosis,8
+Ahch-To Geonosis,16
+Naboo Geonosis,24
+Rodia Felucia,9
+Lah'mu Felucia,18
+Jedha Felucia,27
+Dantooine Eriadu,10
+Crait Eriadu,20
+Iridonia Eriadu,30
+Exegol Coruscant,11
+Hoth Coruscant,22
+Toydaria Coruscant,33
+Zygerria Cantonica,12
+Takodana Cantonica,24
+Moraband Cantonica,36
+Ilum Ando,13
+Christophsis Ando,26
+Dagobah Ando,39
